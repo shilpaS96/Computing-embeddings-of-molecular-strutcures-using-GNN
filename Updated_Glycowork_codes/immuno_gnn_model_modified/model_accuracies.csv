@@ -1,0 +1,6 @@
+Model,Classification,Accuracy
+GraphConv_SuSNet,immunogenicity,0.9436 ± 0.0120
+gin_SuSNet,immunogenicity,0.9215 ± 0.0124
+sage_SuSNet,immunogenicity,0.9399 ± 0.0117
+gcn_SuSNet,immunogenicity,0.9349 ± 0.0147
+SweetNet,immunogenicity,0.9638 ± 0.0093
